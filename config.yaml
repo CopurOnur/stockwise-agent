@@ -1,0 +1,8 @@
+tickers:
+  - NVDA
+delivery:
+  morning_report_cet: "15:00"
+  evening_report_cet: "22:30"
+alerts:
+  price_pct_move: 2   # ±2 %
+  sentiment_threshold: -0.3
